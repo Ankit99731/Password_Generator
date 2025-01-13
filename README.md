@@ -19,7 +19,7 @@ A simple and customizable **Password Generator** built with **React**. This appl
 
 ## 🌐 Demo
 
-Insert a link to a live demo if available, e.g., hosted on [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/).
+ [Vercel]([https://vercel.com/](https://password-generator-five-mocha-96.vercel.app/)).
 
 ---
 
@@ -37,7 +37,7 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/password-generator-react.git
+   git clone https://github./password-generator-react.git
    ```
 
 2. Navigate to the project directory:
@@ -61,7 +61,7 @@ Ensure you have the following installed:
    yarn start
    ```
 
-2. Open your browser and navigate to `http://localhost:3000` to see the application in action.
+2. Open your browser and navigate to ` http://localhost:5173/` to see the application in action.
 
 ---
 
