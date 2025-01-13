@@ -19,7 +19,7 @@ A simple and customizable **Password Generator** built with **React**. This appl
 
 ## 🌐 Demo
 
- [Vercel]([https://vercel.com/](https://password-generator-five-mocha-96.vercel.app/)).
+(https://password-generator-five-mocha-96.vercel.app/).
 
 ---
 
