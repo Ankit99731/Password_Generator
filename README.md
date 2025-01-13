@@ -37,7 +37,7 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github./password-generator-react.git
+  [ git clone https://github.com/Ankit99731/Password_Generator.git]
    ```
 
 2. Navigate to the project directory:
